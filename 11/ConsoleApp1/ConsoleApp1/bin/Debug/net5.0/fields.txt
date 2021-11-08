@@ -1,4 +1,0 @@
-Поля:
-*System.Int32 numberOfPublicat
-*System.Int32 yearOfPublicat
-Свойства:
