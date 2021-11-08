@@ -1,0 +1,16 @@
+D:\univ\3 сем\oop\11\Lab11\Lab11\bin\Debug\net5.0\Lab11.exe
+D:\univ\3 сем\oop\11\Lab11\Lab11\bin\Debug\net5.0\Lab11.deps.json
+D:\univ\3 сем\oop\11\Lab11\Lab11\bin\Debug\net5.0\Lab11.runtimeconfig.json
+D:\univ\3 сем\oop\11\Lab11\Lab11\bin\Debug\net5.0\Lab11.runtimeconfig.dev.json
+D:\univ\3 сем\oop\11\Lab11\Lab11\bin\Debug\net5.0\Lab11.dll
+D:\univ\3 сем\oop\11\Lab11\Lab11\bin\Debug\net5.0\ref\Lab11.dll
+D:\univ\3 сем\oop\11\Lab11\Lab11\bin\Debug\net5.0\Lab11.pdb
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\Lab11.csproj.AssemblyReference.cache
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\Lab11.AssemblyInfoInputs.cache
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\Lab11.AssemblyInfo.cs
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\Lab11.csproj.CoreCompileInputs.cache
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\Lab11.dll
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\ref\Lab11.dll
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\Lab11.pdb
+D:\univ\3 сем\oop\11\Lab11\Lab11\obj\Debug\net5.0\Lab11.genruntimeconfig.cache

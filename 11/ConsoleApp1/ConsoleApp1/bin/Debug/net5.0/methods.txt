@@ -1,0 +1,10 @@
+Методы Lab12.Book:
+*void GetTitle()
+*void GetGenre()
+*void NumberOfPublications()
+*void YearOfPublications()
+*string GetComment(String comment)
+*string ToString()
+*type GetType()
+*boolean Equals(Object obj)
+*int32 GetHashCode()
